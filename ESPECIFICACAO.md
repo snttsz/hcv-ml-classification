@@ -1,25 +1,23 @@
----
-
 # Desafio Prático 2: Inteligência Artificial - Aprendizagem de Máquina
 
-> **📌 Informação Importante para o Grupo:**
-> O dataset designado para o nosso grupo neste trabalho é o **HCV data**.
+## Informação Importante para o Grupo:
+O dataset designado para o nosso grupo neste trabalho é o **HCV data**.
 
 Bem-vindos(as) ao segundo grande desafio prático da disciplina de Inteligência Artificial.
 
 Neste trabalho, o foco será a **Aprendizagem de Máquina clássica**, com ênfase em modelagem experimental, comparação de algoritmos e análise crítica dos resultados. A proposta é que vocês avancem além da simples execução de exemplos prontos e passem a tratar o problema como uma atividade de engenharia: compreender os dados, decidir como representá-los, escolher modelos, definir métricas e interpretar resultados com cuidado.
 
-Ao longo das aulas, discutimos que aprendizagem de máquina não se resume a “treinar um modelo”. Há decisões importantes antes, durante e depois do treinamento: definição do problema, escolha das features, pré-processamento, separação dos dados, escolha dos hiperparâmetros, avaliação e interpretação. É esse conjunto que este trabalho pretende exercitar.
+Ao longo das aulas, discutimos que aprendizagem de máquina não se resume a “treinar um modelo”. Há decisões importantes antes, durante e depois do treinament0: definição do problema, escolha das features, pré-processamento, separação dos dados, escolha dos hiperparâmetros, avaliação e interpretação. É esse conjunto que este trabalho pretende exercitar.
 
 Desta vez, cada grupo trabalhará com um dataset real e deverá explorá-lo sob duas perspectivas complementares:
-* **Aprendizagem supervisionada:** para construir modelos capazes de prever o rótulo das instâncias.
-* **Aprendizagem não supervisionada:** para investigar se há estrutura natural nos dados por meio de agrupamento.
+* Aprendizagem supervisionada: Para construir modelos capazes de prever o rótulo das instâncias.
+* Aprendizagem não supervisionada: Para investigar se há estrutura natural nos dados por meio de agrupamento.
 
 A ideia não é tratar essas duas abordagens como rivais, mas como formas diferentes de olhar para o mesmo conjunto de dados. Como nos demais trabalhos da disciplina, ética e transparência continuam valendo em todas as etapas. Ferramentas de IA generativa podem ser usadas como apoio pontual, mas não substituem o entendimento do grupo. Todas as decisões relevantes devem ser compreendidas e defendidas por vocês na apresentação oral.
 
 ---
 
-## 🎯 Objetivos de Aprendizagem
+## Objetivos de Aprendizagem
 
 Ao final deste trabalho, espera-se que os grupos sejam capazes de:
 * **Compreender um dataset real**, identificando corretamente instâncias, atributos e rótulos.
@@ -34,7 +32,7 @@ Ao final deste trabalho, espera-se que os grupos sejam capazes de:
 
 ---
 
-## 👥 Organização da Turma e Datasets
+## Organização da Turma e Datasets
 
 * A turma será organizada em **6 grupos**.
 * Neste semestre, o T2 será desenvolvido a partir de **3 datasets**, com 2 grupos trabalhando em cada dataset. O sorteio dos datasets será feito em sala.
@@ -42,7 +40,7 @@ Ao final deste trabalho, espera-se que os grupos sejam capazes de:
 
 ---
 
-## 🏗️ Estrutura Geral do Trabalho
+## Estrutura Geral do Trabalho
 
 Cada grupo deverá desenvolver duas trilhas no mesmo dataset:
 
@@ -60,7 +58,7 @@ O grupo deverá aplicar **K-Means** ao mesmo dataset, ignorando os rótulos dura
 
 ---
 
-## 📅 Datas e Prazos
+## Datas e Prazos
 
 | Etapa | Data |
 | :--- | :--- |
@@ -70,7 +68,7 @@ O grupo deverá aplicar **K-Means** ao mesmo dataset, ignorando os rótulos dura
 
 ---
 
-## 🤖 Observação sobre Uso de IA Generativa
+## Observação sobre Uso de IA Generativa
 
 Ferramentas de IA generativa podem ser usadas como apoio pontual, por exemplo:
 * Para revisar texto;
