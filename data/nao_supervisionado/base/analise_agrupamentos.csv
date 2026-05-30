@@ -1,0 +1,3 @@
+cluster,n_instancias,pct_total,n_blood_donor,n_cirrhosis,n_fibrosis,n_hepatitis,pct_blood_donor,pct_cirrhosis,pct_fibrosis,pct_hepatitis
+0,377,61.3,324,20,13,20,85.9,5.3,3.4,5.3
+1,238,38.7,216,10,8,4,90.8,4.2,3.4,1.7
